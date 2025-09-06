@@ -1,3 +1,4 @@
+<img width="1963" height="605" alt="download" src="https://github.com/user-attachments/assets/f9406ed5-75fd-43ff-9d95-6d16ab903edb" />
 # Cardiovascular-Disease-Prediction
 Machine Learning project to predict cardiovascular disease using patient health data.
 
